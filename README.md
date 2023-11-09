@@ -1,8 +1,8 @@
 # Welcome to Liftricans!
 🚀 Empowering you to learn tech and marketing skills for free, one resource at a time.
-![Liftricans Logo](https://example.com/logo.png)
+![Liftricans Logo](images/liftricans_logo.png)
 ## About Us
-We at Liftricans aim to make quality learning accessible to everyone in Africa. We curate and organize a large collection of free resources on technology and marketing to help you master the digital world without spending a fortune.
+Liftricans aim to make quality learning accessible to everyone in Africa. We curate and organize a large collection of free resources on technology to help you master the digital world without spending a fortune.
 📚 Explore our extensive collection of courses, tutorials, and articles.
 🌟 Become a member of our community of learners and mentors for guidance and collaboration.
 📢 Make suggestions for improving and adding new resources to our project.
